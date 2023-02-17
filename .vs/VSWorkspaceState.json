@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\bat",
+    "\\bat\\phpmailer"
   ],
-  "SelectedNode": "\\D:\\webDev\\jitesh\\gypsum",
   "PreviewInSolutionExplorer": false
 }
