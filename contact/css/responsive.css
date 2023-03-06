@@ -297,7 +297,7 @@ button.navbar-toggler span:nth-child(1) {
     align-items: center;
     }
     .logo {
-        float: left;
+        float: center;
         margin-top: 15px;
         margin-bottom: 15px;
         width: 100%;
@@ -467,10 +467,14 @@ button.navbar-toggler span:nth-child(1) {
         width: 100%;
         margin-top: 25px;
         margin-bottom: 20px;
+        display: flex;
+        align-items: center;
     }
-    .logo img {
-        max-width: 180px;
-    }
+        .logo img {
+            max-width: 180px;
+            display: flex;
+            align-items: center;
+        }
     .header_bottom_section {
        min-height: 60px;
        background: #fff;
@@ -831,9 +835,11 @@ button.navbar-toggler span:nth-child(1) {
         margin-top: 25px;
         margin-bottom: 20px;
     }
-    .logo img {
-        max-width: 180px;
-    }
+        .logo img {
+            max-width: 180px;
+            display: flex;
+            align-items: center;
+        }
     .header_bottom_section {
         min-height: 60px;
     }

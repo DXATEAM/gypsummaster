@@ -596,7 +596,7 @@ form#commant_form div.field textarea.custom_field {
 .main_full.inner_page {
     background: #80909c;
     text-align: center;
-    min-height: 180px;
+    min-height: 20px;
 }
 
 .main_full.inner_page h3 {
@@ -604,7 +604,7 @@ form#commant_form div.field textarea.custom_field {
     margin: 0;
     font-weight: 600;
     text-transform: uppercase;
-    line-height: 175px;
+    line-height: 95px;
     text-align: center;
 }
 
