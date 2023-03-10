@@ -2,9 +2,9 @@
   "ExpandedNodes": [
     "",
     "\\contact",
-    "\\contact\\css",
     "\\contact\\PHPMailer",
     "\\css"
   ],
+  "SelectedNode": "\\contact\\style.css",
   "PreviewInSolutionExplorer": false
 }
